@@ -38,7 +38,7 @@ function Projects() {
               title="Personal website"
               description="My personal website page build with React and React bootstrap and it has other supporting technlogies like express.js and vercel for hosting"
               ghLink="https://github.com/abishek239885/PersonalPortfolio"
-              demoLink="https://blogs.soumya-jit.tech/"
+              demoLink="https://abisheksr-portfolio.vercel.app/"
             />
           </Col>
 
