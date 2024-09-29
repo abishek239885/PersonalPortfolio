@@ -6,7 +6,7 @@ import miniCalculatorApp from "../../Assets/Projects/miniCalculatorApp.PNG";
 import budgetApp from "../../Assets/Projects/budgetApp.PNG";
 import netWorthCalculatorApp from "../../Assets/Projects/netWorthCalculatorApp.PNG";
 import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
+import portfolio from "../../Assets/Projects/portfolio.png";
 
 function Projects() {
   return (
@@ -33,7 +33,7 @@ function Projects() {
 
           <Col lg={4} md={6} sm={12} xs={12} className="project-card">
             <ProjectCard
-              imgPath={suicide}
+              imgPath={portfolio}
               isBlog={false}
               title="Personal website"
               description="My personal website page build with React and React bootstrap and it has other supporting technlogies like express.js and vercel for hosting"
